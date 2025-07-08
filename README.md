@@ -37,6 +37,6 @@
 - **devel/** ：存放开发环境设置、可执行文件等。
 - **README.md**：项目说明文档，记录工作空间的搭建、功能描述等内容。
 - **CHANGELOG.rst**:更新日志记录
-[gmapping](https://wiki.ros.org/gmapping)<.br>
-[move_base](https://wiki.ros.org/move_base)<.br>
-[MapTools](https://github.com/6-robot/waterplus_map_tools)<.br>
+[gmapping](https://wiki.ros.org/gmapping)<br>
+[move_base](https://wiki.ros.org/move_base)<br>
+[MapTools](https://github.com/6-robot/waterplus_map_tools)<br>
