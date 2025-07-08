@@ -183,8 +183,9 @@ source devel/setup.bash
 | LaserShot_Command  | std_msgs::UInt8                   | 订阅    | 激光发射信息     |
 | initialpose        | geometry_msgs::PoseWithCovariance | 订阅    | 重置位姿       |
 ---
----
-
 [gmapping](https://wiki.ros.org/gmapping)<br>
 [move_base](https://wiki.ros.org/move_base)<br>
 [MapTools](https://github.com/6-robot/waterplus_map_tools)<br>
+
+[GIMP](https://www.gimp.org/)
+[6-robot](https://github.com/6-robot)
