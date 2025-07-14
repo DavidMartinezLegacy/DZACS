@@ -1,4 +1,7 @@
 # 🚀 DZACS
+.. important::
+
+	You will only learn the concepts mentioned here by **practicing**. Remember to practice, practice, and practice ….
 
 ## 1️⃣ 项目简介
 > 本项目是一个基于 **ROS Noetic** 开发的全国大学生智能汽车竞赛渡众车车对抗赛开源功能包，主要实现：
